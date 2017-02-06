@@ -19,3 +19,4 @@ A project to illustrate basic Git workflow
 
 1. git push origin master
 
+1. REPEAT steps 3-8
