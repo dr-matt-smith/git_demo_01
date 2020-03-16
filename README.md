@@ -11,9 +11,10 @@ A project to illustrate basic Git workflow
 
 1. git status
 
-1. git add
 
 1. create .gitignore
+
+1. git add . // we can add all, since we're ingnoring all unecessary files with the .gitignore
 
 1. git commit
 
