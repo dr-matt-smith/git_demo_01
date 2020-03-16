@@ -19,4 +19,4 @@ A project to illustrate basic Git workflow
 
 1. git push
 
-1. REPEAT steps 3-8
+1. REPEAT steps 4-8
